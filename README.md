@@ -1,1 +1,1 @@
-'# ginit' 
+# ginit
